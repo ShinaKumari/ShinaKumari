@@ -1,5 +1,5 @@
 ### Hi there 👋
-![programmer](https://user-images.githubusercontent.com/107980731/224247871-ce51ac6b-2ab9-4d2b-bf39-add7faf81c63.gif)
+![programmer](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611do3yxluamuj5gf114qwh9g89a2kbv0tk2s2m4z27&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 <h1 align="center">Hi 👋, I'm Shina Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -9,15 +9,18 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **Web Development\python**
-
-- 📫 How to reach me **theshina004@gmail.com**
+- 💬 Ask me about **I’m Web Developer**
+  📫I  worked  a  Frontend Developer intern in GSSOC'23'**
+  📫Also worked as a  Frontend Developer intern in Spark Foundation**
+  📫 I have experience in Frontend and aware with Backend Development with  React.js, Node.js, Express.js,Mongodb,html,css,talwindcss,bootstrap,typescripter,sql
+ 🔐 Skilled in Website Penetration  and familiar with  tools **
+ 📫 How to reach me **theshina004@gmail.com**
 
 - ⚡ Fun fact **I play Badminton**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/the-shinakumari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/the-shinakumari/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/the-shinakumari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/the-shinakumari/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/shinakumari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shinakumari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/shina_9419/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shina_9419/" height="30" width="40" /></a>
 <a href="https://discord.gg/Shibu sharma#3444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shibu sharma#3444" height="30" width="40" /></a>
